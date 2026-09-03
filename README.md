@@ -1,6 +1,4 @@
 # Test
 This is a test repository.
 
-HaHa
-
-## wow
+## HaHa
